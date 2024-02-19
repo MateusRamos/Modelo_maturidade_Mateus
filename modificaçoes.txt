@@ -1,0 +1,13 @@
+assets/imagens:
+  criado icons
+  adicionados todos os arquivos svg
+assets/stylesheets:
+  criados todos os arquivos, exceto 'application.css'
+  adicionadas linha 2 e 3 ao 'application.css'
+assets/javascript:
+  criada pasta 'main'
+  adicionado a pasta 'main' arquivo 'main.js' (not working)
+assets/views/layouts:
+  modificações no arquivo 'application.html.erb'
+assets/views/main_screen:
+  modificaçoes no arquivo 'index.html.erb'
